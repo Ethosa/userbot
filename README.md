@@ -8,7 +8,7 @@ This bot automatically updates your profile photo every 5 minutes.
 ## Install:
 `git clone https://github.com/Ethosa/userbot.git`  
 Change login and password in `a.py`, add `images` folder.  
-Install dependencies: `python -m pip install requirements.txt`
+Install dependencies: `python -m pip install -r requirements.txt`
 
 ## Run:
 `python -m a.py`
