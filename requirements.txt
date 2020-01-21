@@ -1,0 +1,4 @@
+saya>=0.1.46
+mchains>=0.1
+regex
+gtts
